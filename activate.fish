@@ -11,5 +11,5 @@
 #                              rostislav.marinov (at) gmail.com
 #
 
-. venv/bin/activate.fish
-. venv/bin/pip_comp.fish
+source venv/bin/activate.fish
+source bin/pip_completition.fish
